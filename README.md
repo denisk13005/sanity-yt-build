@@ -14,10 +14,14 @@ Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packag
 
 ```bash
 npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+on crée un projet sanity pour le back
+on va sur le repertoire créé et on lance sanity studio
+`sanity start`
+
+on va sur sanity pour voir les schémas de données, on peut rentrer une donnée directement dans sanity studio
+
+```
